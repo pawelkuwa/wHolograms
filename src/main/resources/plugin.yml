@@ -1,0 +1,9 @@
+name: wHolograms
+version: '${project.version}'
+main: me.wisnia.wholograms.Main
+api-version: 1.16
+authors: [_wisnia]
+description: Plugin wprowadzający hologramy
+website: https://discord.gg/pfD9VbDSNU
+commands:
+  whologram:
